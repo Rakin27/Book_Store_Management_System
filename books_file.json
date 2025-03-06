@@ -1,0 +1,26 @@
+[
+    {
+        "title": "It starts with us",
+        "author": "Colleen Hoover",
+        "isbn": "1001",
+        "genre": "Romance Novel",
+        "price": 1300.0,
+        "quantity": 4
+    },
+    {
+        "title": "Programming with python",
+        "author": "John Doe",
+        "isbn": "1002",
+        "genre": "Academic",
+        "price": 250.0,
+        "quantity": 6
+    },
+    {
+        "title": "Let us C",
+        "author": "Yashavant Kanetkar",
+        "isbn": "1003",
+        "genre": "Academic",
+        "price": 400.0,
+        "quantity": 5
+    }
+]
